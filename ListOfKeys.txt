@@ -1,3 +1,4 @@
-^+A - Open AHKScripts folder
-^+F1 - Open Maui Packing List (View)
-^F1 - Open Maui Packing list (Edit)
+CTRL-SHIFT-A - Open AHKScripts folder
+CTRL-F1 - Open Maui Planning List (View)
+CTRL-SHIFT-F1 - Open Maui Planning list (Edit)
+CTRL-SHIFT-W: Run web dev learning environment
