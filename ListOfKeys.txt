@@ -1,0 +1,3 @@
+^+A - Open AHKScripts folder
+^+F1 - Open Maui Packing List (View)
+^F1 - Open Maui Packing list (Edit)
