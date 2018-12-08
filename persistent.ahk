@@ -21,9 +21,17 @@ SetScrollLockState, AlwaysOff
 ; open maui packing list for viewing
 ^+F1::Run "E:\OneDrive\HawaiiHoneymoon2018\PackingList.html"
 
+; web dev learning keys
 ^+W::
-    Run, "https://www.udemy.com/the-web-developer-bootcamp/learn"
+    Run, "https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn"
     Run, "C:\Users\analy\AppData\Local\Programs\Microsoft VS Code\Code.exe"
     Run, "C:\Program Files\Microsoft Office\root\Office16\ONENOTE.EXE"
 return
 
+; right-click, open in VSCode
+
+^+O::
+	Send +{F10}
+	Sleep, 500
+	Send {i}
+return
