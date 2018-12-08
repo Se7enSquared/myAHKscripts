@@ -2,3 +2,4 @@ CTRL-SHIFT-A - Open AHKScripts folder
 CTRL-F1 - Open Maui Planning List (View)
 CTRL-SHIFT-F1 - Open Maui Planning list (Edit)
 CTRL-SHIFT-W: Run web dev learning environment
+CTRL-SHIFT-O: Open current selected file or folder in VS Code
